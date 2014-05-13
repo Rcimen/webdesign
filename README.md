@@ -4,13 +4,13 @@ webdesign
 Het is voor mij als <strong>webdesigner</strong> en <strong>developer</strong> soms moeilijk om mijn url-links bij te houden. Mijn tabblad favorieten lopen alleen maar op en gaandeweg wordt het steeds minder overzichtelijk. In dit document zal ik handige url verwijzingen plaatsen die mij helpen mijn workflow te verbeteren bij het ontwerpen en bouwen van websites.
 
 ## Document indeling
-* Leesmateriaal Blog's
+* Leesmateriaal
 * Github
 * Bootstrap
 * Iconen
 
-##  Leesmateriaal Blog's
-* Blog
+##  Leesmateriaal
+* Blog's
  * <a href="http://alistapart.com/">A List Apart</a>
  * <a href="http://www.siteinspire.com/">Siteinspire</a>
  * <a href="http://www.siteinspire.com/">UX Movement</a>
