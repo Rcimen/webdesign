@@ -13,14 +13,14 @@ Het is voor mij als <strong>webdesigner</strong> en <strong>developer</strong> s
 * Bootstrap
 * Iconen
 
-##  Leesmateriaal
+## Leesmateriaal
 * Blog's
- * <a href="http://alistapart.com/">A List Apart</a>
- * <a href="http://www.siteinspire.com/">Siteinspire</a>
- * <a href="http://www.siteinspire.com/">UX Movement</a>
- * <a href="http://www.designmodo.com">Designmodo</a>
+ * [A List Apart](http://alistapart.com/)
+ * [Siteinspire](http://www.siteinspire.com/)
+ * [UX Movement](http://uxmovement.com/)
+ * [Designmodo](http://www.designmodo.com)
 * Video
- * <a href="http://www.ted.com">TED Ideas worth spreading</a>
+ * [TED Ideas worth spreading](http://www.ted.com)
 
 ## Github
 * <a href="https://github.com/">Github</a>
