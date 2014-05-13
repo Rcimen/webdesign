@@ -31,6 +31,7 @@ Het is voor mij als <strong>webdesigner</strong> en <strong>developer</strong> s
 * <a href="http://www.getbootstrap.com">Twitter Bootstrap</a> - Official website for Twitter's Bootstrap Framework <br>
  * <a href="http://bootstrapawesome.com/">Bootstrap Awesome</a> - Premium Bootstrap Themes & Templates <br>
  * <a href="https://wrapbootstrap.com/">Wrapbootstrap</a> 
+   * <a href="http://superhero.phoonio.com/">Superhero Admin</a>
  * <a href="http://startbootstrap.com/">Startbootstrap</a> - Free Bootstrap Themes & Templates <br>
  * <a href="http://www.bootstraphero.com/the-big-badass-list-of-twitter-bootstrap-resources">The Big Badass list of Twitter  Bootstrap recources</a> <br>
  * <a href="http://bootswatch.com/">Bootswatch</a> - Free Bootstrap themes <br>
