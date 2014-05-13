@@ -10,11 +10,13 @@ Het is voor mij als <strong>webdesigner</strong> en <strong>developer</strong> s
 * Iconen
 
 ##  Leesmateriaal Blog's
-* <a href="http://alistapart.com/">A List Apart</a> - Blog
-* <a href="http://www.siteinspire.com/">Siteinspire</a> - Blog
-* <a href="http://www.siteinspire.com/">UX Movement</a> - Blog
-* <a href="http://www.designmodo.com">Designmodo</a> - Blog
-* <a href="http://www.ted.com">TED Ideas worth spreading</a> - Video
+* Blog
+ * <a href="http://alistapart.com/">A List Apart</a>
+ * <a href="http://www.siteinspire.com/">Siteinspire</a>
+ * <a href="http://www.siteinspire.com/">UX Movement</a>
+ * <a href="http://www.designmodo.com">Designmodo</a>
+* Video
+ * <a href="http://www.ted.com">TED Ideas worth spreading</a>
 
 ## Github
 * <a href="https://github.com/">Github</a>
