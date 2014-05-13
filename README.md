@@ -5,7 +5,7 @@ Voor feedback of suggesties kun je een **Tweet** sturen naar <a href="https://tw
 webdesign
 =========
 
-Het is voor mij als <strong>webdesigner</strong> en <strong>developer</strong> soms moeilijk om mijn url-links bij te houden. Mijn tabblad favorieten loopt alleen maar op en gaandeweg wordt het steeds minder overzichtelijk. In dit document zal ik handige url verwijzingen  die mij helpen mijn workflow te verbeteren bij het ontwerpen en bouwen van websites.
+Het is voor mij als <strong>webdesigner</strong> en <strong>developer</strong> soms moeilijk om mijn url-links bij te houden. Mijn tabblad favorieten loopt alleen maar op en gaandeweg wordt het steeds minder overzichtelijk. In dit document zal ik handige url verwijzingen plaatsen die mij helpen mijn workflow te verbeteren bij het ontwerpen en bouwen van websites.
 
 ## Document indeling
 * Leesmateriaal
