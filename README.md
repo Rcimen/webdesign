@@ -21,7 +21,7 @@ Het is voor mij als <strong>webdesigner</strong> en <strong>developer</strong> s
   * [Designmodo](http://www.designmodo.com)
   * [Chris Lema](http://chrislema.com/) - Daily Blogger. Product Strategist. Speaker
 * Video
-  * [TED Ideas worth spreading](http://www.ted.com)
+  * [TED](http://www.ted.com) - Ideas worth spreading
 * Learn
   * [Gibbon](https://gibbon.co/) 
   * [CodeCademy](http://www.codecademy.com/) - Learn to code HTML & CSS, PHP, JS, RUBY etc.
