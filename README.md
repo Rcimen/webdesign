@@ -1,6 +1,6 @@
 ###### Welkom
 
-Voor feedback of suggesties kun je een **Tweet** sturen naar <a href="https://twitter.com/studiopompoen">@studiopompoen</a>.
+Voor feedback of suggesties kun je een **Tweet** sturen naar <a href="https://twitter.com/studiopompoen">@studiopompoen</a>. 
 
 webdesign
 =========
@@ -74,3 +74,5 @@ Het is voor mij als <strong>webdesigner</strong> en <strong>developer</strong> s
 ## Online communities
 * [Dribbble](https://dribbble.com/)
 * [Behance](https://www.behance.net/)
+
+> **The process is the product;** _how_ you work is just as important as _what_ you work on.
