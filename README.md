@@ -20,9 +20,11 @@ Het is voor mij als <strong>webdesigner</strong> en <strong>developer</strong> s
  * [UX Movement](http://uxmovement.com/)
  * [Designmodo](http://www.designmodo.com)
  * [Chris Lema](http://chrislema.com/) - Daily Blogger. Product Strategist. Speaker
- * [Gibbon](https://gibbon.co/) 
 * Video
  * [TED Ideas worth spreading](http://www.ted.com)
+* Learn
+ * [Gibbon](https://gibbon.co/) 
+ * [CodeCademy](http://www.codecademy.com/) - Learn to code HTML & CSS, PHP, JS, RUBY etc.
 
 ## Github
 * [Github](https://github.com/) 
