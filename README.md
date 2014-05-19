@@ -12,6 +12,9 @@ Het is voor mij als <strong>webdesigner</strong> en <strong>developer</strong> s
 * Github
 * Bootstrap
 * Iconen
+* Typography
+* Stock images
+* Online communities
 
 ## Leesmateriaal
 * Blog's
@@ -25,6 +28,8 @@ Het is voor mij als <strong>webdesigner</strong> en <strong>developer</strong> s
 * Learn
   * [Gibbon](https://gibbon.co/) 
   * [CodeCademy](http://www.codecademy.com/) - Learn to code HTML & CSS, PHP, JS, RUBY etc.
+* Stories
+  * [Medium](https://medium.com/) - Tell a story ór find something to read
 
 ## Github
 * [Github](https://github.com/) 
@@ -48,3 +53,24 @@ Het is voor mij als <strong>webdesigner</strong> en <strong>developer</strong> s
 
 ## Iconen
 * [Flaticon](http://www.flaticon.com/) - Gratis iconen voor commercieel gebruik; Erg handig vanwege branche categorieën
+* [Entypo](http://www.entypo.com/) - 250+ carefully crafted pictograms
+* [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
+* [Flags](https://www.gosquared.com/resources/flag-icons/)
+* [Batch](http://adamwhitcroft.com/batch/)
+
+## Typography
+* Fonts & Webfonts
+ * [Google Fonts](https://www.google.com/fonts)
+ * [Fontsquirre;](http://www.fontsquirrel.com/)
+ * [Dafont](http://www.dafont.com/)
+
+## Stock images
+* [Unsplash](http://unsplash.com/)
+* [Picjumbo](http://picjumbo.com/)
+* [The Pattern Library](http://thepatternlibrary.com/) - Love this one ...but use it wisely!
+* [Gratisography](http://www.gratisography.com/)
+* [IM Free](http://www.imcreator.com/free) - Naamsvermelding vereist - Requires attribution
+
+## Online communities
+* [Dribbble](https://dribbble.com/)
+* [Behance](https://www.behance.net/)
