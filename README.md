@@ -76,5 +76,4 @@ Het is voor mij als <strong>webdesigner</strong> en <strong>developer</strong> s
 * [Behance](https://www.behance.net/)
 
 > **The process is the product;** 
-
 > _how_ you work is just as important as _what_ you work on.
