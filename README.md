@@ -7,7 +7,7 @@ webdesign
 
 Het is voor mij als <strong>webdesigner</strong> en <strong>developer</strong> soms moeilijk om mijn url-links bij te houden. Mijn tabblad favorieten loopt steeds verder op en gaandeweg wordt het minder overzichtelijk. In dit document zal ik handige url verwijzingen plaatsen die mij helpen mijn workflow te verbeteren bij het ontwerpen en bouwen van websites.
 
-## Document indeling
+### Document indeling
 * Leesmateriaal
 * Github
 * Bootstrap
@@ -16,7 +16,7 @@ Het is voor mij als <strong>webdesigner</strong> en <strong>developer</strong> s
 * Stock images
 * Online communities
 
-## Leesmateriaal
+### Leesmateriaal
 * Blog's
   * [A List Apart](http://alistapart.com/)
   * [Siteinspire](http://www.siteinspire.com/)
@@ -31,12 +31,12 @@ Het is voor mij als <strong>webdesigner</strong> en <strong>developer</strong> s
 * Stories
   * [Medium](https://medium.com/) - Tell a story ór find something to read
 
-## Github
+### Github
 * [Github](https://github.com/) 
  * [Github Markdown](https://guides.github.com/features/mastering-markdown/) - Uitleg Github Markdown
  * [Cheatsheet Emoji iconen](http://www.emoji-cheat-sheet.com/) - Github supports Emoji
 
-## Twitter Bootstrap
+### Twitter Bootstrap
 * [Twitter Bootstrap](http://www.getbootstrap.com) - Official website for Twitter's Bootstrap Framework 
  * [Bootstrap Awesome](http://bootstrapawesome.com/) - Premium Bootstrap Themes & Templates 
  * [Wrapbootstrap](https://wrapbootstrap.com/)
@@ -48,31 +48,31 @@ Het is voor mij als <strong>webdesigner</strong> en <strong>developer</strong> s
  * [Bootstrap Switch ](http://www.bootstrap-switch.org/)
  * [CSS only toggle switch](http://www.simple10.com/code/2013/11/15/css-only-input-toggle-switch/)
 
-## Wordpress Themes and Frameworks
+### Wordpress Themes and Frameworks
 * [Roots Wordpress Theme](http://roots.io/) - Roots, a WordPress starter theme
 
-## Iconen
+### Iconen
 * [Flaticon](http://www.flaticon.com/) - Gratis iconen voor commercieel gebruik; Erg handig vanwege branche categorieën
 * [Entypo](http://www.entypo.com/) - 250+ carefully crafted pictograms
 * [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
 * [Flags](https://www.gosquared.com/resources/flag-icons/)
 * [Batch](http://adamwhitcroft.com/batch/)
 
-## Typography
+### Typography
 * Fonts databases
  * [Google Fonts](https://www.google.com/fonts)
  * [Fontsquirre;](http://www.fontsquirrel.com/)
  * [Dafont](http://www.dafont.com/)
  * [Typekit](https://typekit.com/) - Adobe Typekit
 
-## Stock images
+### Stock images
 * [Unsplash](http://unsplash.com/)
 * [Picjumbo](http://picjumbo.com/)
 * [The Pattern Library](http://thepatternlibrary.com/) - Love this one ...but use it wisely!
 * [Gratisography](http://www.gratisography.com/)
 * [IM Free](http://www.imcreator.com/free) - Naamsvermelding vereist - Requires attribution
 
-## Online communities
+### Online communities
 * [Dribbble](https://dribbble.com/)
 * [Behance](https://www.behance.net/)
 
