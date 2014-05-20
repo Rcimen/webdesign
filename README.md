@@ -49,7 +49,9 @@ Het is voor mij als <strong>webdesigner</strong> en <strong>developer</strong> s
  * [Bootsnipp](http://bootsnipp.com/) - Code snippets for Bootstrap 
  * [Bootstrap Switch ](http://www.bootstrap-switch.org/)
  * [CSS only toggle switch](http://www.simple10.com/code/2013/11/15/css-only-input-toggle-switch/)
-
+* Bootstrap Tips, Tricks & Tutorials
+ * [Bootstrap 3 Tips you might not know](http://scotch.io/bar-talk/bootstrap-3-tips-and-tricks-you-might-not-know)
+ 
 ### Wordpress Themes & Frameworks
 * [Roots Wordpress Theme](http://roots.io/) - Roots, a WordPress starter Theme
 
