@@ -10,11 +10,13 @@ Het is voor mij als <strong>webdesigner</strong> en <strong>developer</strong> s
 ### Document indeling
 * Leesmateriaal
 * Github
-* Bootstrap
+* Twitter Bootstrap
+* Wordpress Themes & Frameworks
+* Frameworks / JS plugins
 * Iconen
 * Typography
-* Stock images
-* Online communities
+* Stock Images
+* Online Communities
 
 ### Leesmateriaal
 * Blog's
@@ -43,13 +45,18 @@ Het is voor mij als <strong>webdesigner</strong> en <strong>developer</strong> s
  * [Superhero Admin](http://superhero.phoonio.com/)
  * [Startbootstrap](http://startbootstrap.com/) - Free Bootstrap Themes & Templates 
  * [The Big Badass list of Twitter  Bootstrap recources](http://www.bootstraphero.com/the-big-badass-list-of-twitter-bootstrap-resources) 
- * [Bootswatch](http://bootswatch.com/) - Free Bootstrap themes 
+ * [Bootswatch](http://bootswatch.com/) - Free Bootstrap Themes 
  * [Bootsnipp](http://bootsnipp.com/) - Code snippets for Bootstrap 
  * [Bootstrap Switch ](http://www.bootstrap-switch.org/)
  * [CSS only toggle switch](http://www.simple10.com/code/2013/11/15/css-only-input-toggle-switch/)
 
-### Wordpress Themes and Frameworks
-* [Roots Wordpress Theme](http://roots.io/) - Roots, a WordPress starter theme
+### Wordpress Themes & Frameworks
+* [Roots Wordpress Theme](http://roots.io/) - Roots, a WordPress starter Theme
+
+### Frameworks / JS Plugins
+* [Grunt](http://gruntjs.com/) - The Javascript Task Runner
+* [Bigvideo](http://dfcb.github.io/BigVideo.js/) - Full Screen Background Video
+* [Holder](http://imsky.github.io/holder/) - Image Placeholder
 
 ### Iconen
 * [Flaticon](http://www.flaticon.com/) - Gratis iconen voor commercieel gebruik; Erg handig vanwege branche categorieën
@@ -65,14 +72,14 @@ Het is voor mij als <strong>webdesigner</strong> en <strong>developer</strong> s
  * [Dafont](http://www.dafont.com/)
  * [Typekit](https://typekit.com/) - Adobe Typekit
 
-### Stock images
+### Stock Images
 * [Unsplash](http://unsplash.com/)
 * [Picjumbo](http://picjumbo.com/)
 * [The Pattern Library](http://thepatternlibrary.com/) - Love this one ...but use it wisely!
 * [Gratisography](http://www.gratisography.com/)
 * [IM Free](http://www.imcreator.com/free) - Naamsvermelding vereist - Requires attribution
 
-### Online communities
+### Online Communities
 * [Dribbble](https://dribbble.com/)
 * [Behance](https://www.behance.net/)
 
