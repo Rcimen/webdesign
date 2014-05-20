@@ -63,6 +63,7 @@ Het is voor mij als <strong>webdesigner</strong> en <strong>developer</strong> s
  * [Google Fonts](https://www.google.com/fonts)
  * [Fontsquirre;](http://www.fontsquirrel.com/)
  * [Dafont](http://www.dafont.com/)
+ * [Typekit](https://typekit.com/) - Adobe Typekit
 
 ## Stock images
 * [Unsplash](http://unsplash.com/)
