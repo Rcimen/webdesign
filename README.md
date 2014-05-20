@@ -31,8 +31,9 @@ Het is voor mij als <strong>webdesigner</strong> en <strong>developer</strong> s
 * Learn
   * [Gibbon](https://gibbon.co/) 
   * [CodeCademy](http://www.codecademy.com/) - Learn to code HTML & CSS, PHP, JS, RUBY etc.
-* Stories
+* Stories & News
   * [Medium](https://medium.com/) - Tell a story ór find something to read
+  * [Usepanda](http://usepanda.com/app/) - Keep Designers and Hackers Inspired Everyday
 
 ### Github
 * [Github](https://github.com/) 
