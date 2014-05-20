@@ -70,7 +70,7 @@ Het is voor mij als <strong>webdesigner</strong> en <strong>developer</strong> s
 ### Typography
 * Fonts databases
  * [Google Fonts](https://www.google.com/fonts)
- * [Fontsquirre;](http://www.fontsquirrel.com/)
+ * [Fontsquirrel](http://www.fontsquirrel.com/)
  * [Dafont](http://www.dafont.com/)
  * [Typekit](https://typekit.com/) - Adobe Typekit
 
