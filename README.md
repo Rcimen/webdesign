@@ -76,7 +76,6 @@ Het is voor mij als <strong>webdesigner</strong> en <strong>developer</strong> s
 * [Dribbble](https://dribbble.com/)
 * [Behance](https://www.behance.net/)
 
-___
-
+###### Blockquote
 > **The process is the product;** <br>
 > _how_ you work is just as important as _what_ you work on.
