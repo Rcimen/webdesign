@@ -1,6 +1,7 @@
 ###### Welkom
 
-Voor feedback of suggesties kun je een **Tweet** sturen naar <a href="https://twitter.com/studiopompoen">@studiopompoen</a>. 
+Voor feedback of suggesties kun je een **Tweet** sturen naar <a href="https://twitter.com/studiopompoen">@studiopompoen</a>. <br>
+Of stuur een email naar *r.cimen[at]studiopompoen.nl*
 
 webdesign
 =========
