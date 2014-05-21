@@ -68,7 +68,7 @@ Het is voor mij als <strong>webdesigner</strong> en <strong>developer</strong> s
 * [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
 * [Flags](https://www.gosquared.com/resources/flag-icons/)
 * [Batch](http://adamwhitcroft.com/batch/)
-* [Stackoverflow: Glyphicons](http://stackoverflow.com/questions/19740700/glyphicons-bootstrap-icon-font-hex-value) - Shortcut `:before` `:after` for use in CSS
+* [Stackoverflow: Glyphicons](http://stackoverflow.com/questions/19740700/glyphicons-bootstrap-icon-font-hex-value) - Shortcuts `:before` `:after` for use in CSS
 
 ### Typography
 * Fonts databases
