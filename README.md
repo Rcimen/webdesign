@@ -61,6 +61,7 @@ Het is voor mij als <strong>webdesigner</strong> en <strong>developer</strong> s
 * [Grunt](http://gruntjs.com/) - The Javascript Task Runner
 * [Bigvideo](http://dfcb.github.io/BigVideo.js/) - Full Screen Background Video
 * [Holder](http://imsky.github.io/holder/) - Image Placeholder
+* [jQuery UI](http://jqueryui.com/) - Set of User Interface Interactions, Effects, Widgets etc.
 
 ### Iconen
 * [Flaticon](http://www.flaticon.com/) - Gratis iconen voor commercieel gebruik; Erg handig vanwege branche categorieën
