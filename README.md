@@ -59,6 +59,8 @@ Het is voor mij als <strong>webdesigner</strong> en <strong>developer</strong> s
 
 ### Frameworks / JS Plugins
 * [Grunt](http://gruntjs.com/) - The Javascript Task Runner
+* [Less](http://lesscss.org/)
+* [Sass](http://sass-lang.com/)
 * [Bigvideo](http://dfcb.github.io/BigVideo.js/) - Full Screen Background Video
 * [Holder](http://imsky.github.io/holder/) - Image Placeholder
 * [jQuery UI](http://jqueryui.com/) - Set of User Interface Interactions, Effects, Widgets etc.
