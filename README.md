@@ -65,10 +65,11 @@ Het is voor mij als <strong>webdesigner</strong> en <strong>developer</strong> s
 
 ### Frameworks / JS Plugins
 * [Grunt](http://gruntjs.com/) - The Javascript Task Runner
-* [Less](http://lesscss.org/)
-* [Sass](http://sass-lang.com/)
+* [Less](http://lesscss.org/) - CSS
+* [Sass](http://sass-lang.com/) - CSS
 * [Bigvideo](http://dfcb.github.io/BigVideo.js/) - Full Screen Background Video
 * [OWL Carousel](http://owlgraphic.com/owlcarousel/) - Touch enabled jQuery Plugin
+* [Onepage Scroll](http://www.thepetedesign.com/demos/onepage_scroll_demo.html) - Vertical full-screen slider
 * [Holder](http://imsky.github.io/holder/) - Image Placeholder
 * [jQuery UI](http://jqueryui.com/) - Set of User Interface Interactions, Effects, Widgets etc.
 
