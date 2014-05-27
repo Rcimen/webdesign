@@ -13,6 +13,7 @@ Het is voor mij als <strong>webdesigner</strong> en <strong>developer</strong> s
 * Github
 * Twitter Bootstrap
 * Wordpress Themes & Frameworks
+* Wordpress Plugins
 * Frameworks / JS plugins
 * Iconen
 * Typography
@@ -54,15 +55,20 @@ Het is voor mij als <strong>webdesigner</strong> en <strong>developer</strong> s
 * Bootstrap Tips, Tricks & Tutorials
  * [Bootstrap 3 Tips you might not know](http://scotch.io/bar-talk/bootstrap-3-tips-and-tricks-you-might-not-know)
  * [Creative-Tim](http://www.creative-tim.com/)
- 
+
+
 ### Wordpress Themes & Frameworks
 * [Roots Wordpress Theme](http://roots.io/) - Roots, a WordPress starter Theme
+
+### Wordpress Plugins 
+* [Advanced Custom Fields](http://www.advancedcustomfields.com/)
 
 ### Frameworks / JS Plugins
 * [Grunt](http://gruntjs.com/) - The Javascript Task Runner
 * [Less](http://lesscss.org/)
 * [Sass](http://sass-lang.com/)
 * [Bigvideo](http://dfcb.github.io/BigVideo.js/) - Full Screen Background Video
+* [OWL Carousel](http://owlgraphic.com/owlcarousel/) - Touch enabled jQuery Plugin
 * [Holder](http://imsky.github.io/holder/) - Image Placeholder
 * [jQuery UI](http://jqueryui.com/) - Set of User Interface Interactions, Effects, Widgets etc.
 
@@ -80,6 +86,7 @@ Het is voor mij als <strong>webdesigner</strong> en <strong>developer</strong> s
  * [Fontsquirrel](http://www.fontsquirrel.com/)
  * [Dafont](http://www.dafont.com/)
  * [Typekit](https://typekit.com/) - Adobe Typekit
+ * [Fontello](http://fontello.com/) - Icon Webfonts
 
 ### Stock Images
 * [Unsplash](http://unsplash.com/)
