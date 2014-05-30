@@ -34,6 +34,7 @@ Het is voor mij als <strong>webdesigner</strong> en <strong>developer</strong> s
   * [CodeCademy](http://www.codecademy.com/) - Learn to code HTML & CSS, PHP, JS, RUBY etc.
 * Stories & News
   * [Medium](https://medium.com/) - Tell a story ór find something to read
+  * [The Industry](http://theindustry.cc/) - Covering Design focused Startups and People
   * [Usepanda](http://usepanda.com/app/) - Keep Designers and Hackers Inspired Everyday
 
 ### Github
