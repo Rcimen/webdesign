@@ -75,7 +75,7 @@ Het is voor mij als <strong>webdesigner</strong> en <strong>developer</strong> s
 * [Holder](http://imsky.github.io/holder/) - Image Placeholder
 * [jQuery UI](http://jqueryui.com/) - Set of User Interface Interactions, Effects, Widgets etc.
 
-### Text Editor & PLugins
+### Text Editor & Plugins
 * [Sublime Text](http://www.sublimetext.com/) - Official Sublime Text website
 * [Package Controll for Sublime Text](https://sublime.wbond.net/) - The Sublime Text Package Manager
 * [Essential toolkit for webdevelopers](http://docs.emmet.io/) - Also known as Zen coding
