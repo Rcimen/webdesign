@@ -76,9 +76,9 @@ Het is voor mij als <strong>webdesigner</strong> en <strong>developer</strong> s
 * [jQuery UI](http://jqueryui.com/) - Set of User Interface Interactions, Effects, Widgets etc.
 
 ### Text Editor & Plugins
-* [Sublime Text](http://www.sublimetext.com/) - Official Sublime Text website
+* [Sublime Text](http://www.sublimetext.com/) - Official Sublime Text (ST) website
 * [Package Controll for Sublime Text](https://sublime.wbond.net/) - The Sublime Text Package Manager
-* [Essential toolkit for webdevelopers](http://docs.emmet.io/) - Also known as Zen coding
+* [Cheat Sheet for Emmet Plugin](http://docs.emmet.io/cheat-sheet/) - Also known as Zen coding (ST Plugin)
 
 ### Iconen
 * [Flaticon](http://www.flaticon.com/) - Gratis iconen voor commercieel gebruik; Erg handig vanwege branche categorieën
