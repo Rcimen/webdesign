@@ -15,6 +15,7 @@ Het is voor mij als <strong>webdesigner</strong> en <strong>developer</strong> s
 * Wordpress Themes & Frameworks
 * Wordpress Plugins
 * Frameworks / JS plugins
+* Text Editor & plugins
 * Iconen
 * Typography
 * Stock Images
@@ -73,6 +74,11 @@ Het is voor mij als <strong>webdesigner</strong> en <strong>developer</strong> s
 * [Onepage Scroll](https://github.com/peachananr/onepage-scroll) - Vertical full-screen slider
 * [Holder](http://imsky.github.io/holder/) - Image Placeholder
 * [jQuery UI](http://jqueryui.com/) - Set of User Interface Interactions, Effects, Widgets etc.
+
+### Text Editor & PLugins
+* [Sublime Text](http://www.sublimetext.com/) - Official Sublime Text website
+* [Package Controll for Sublime Text](https://sublime.wbond.net/) - The Sublime Text Package Manager
+* [Essential toolkit for webdevelopers](http://docs.emmet.io/) - Also known as Zen coding
 
 ### Iconen
 * [Flaticon](http://www.flaticon.com/) - Gratis iconen voor commercieel gebruik; Erg handig vanwege branche categorieën
