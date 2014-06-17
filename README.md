@@ -18,6 +18,7 @@ Het is voor mij als <strong>webdesigner</strong> en <strong>developer</strong> s
 * Text Editor & plugins
 * Iconen
 * Typography
+* UI / UX Patterns
 * Stock Images
 * Online Communities
 
@@ -96,6 +97,10 @@ Het is voor mij als <strong>webdesigner</strong> en <strong>developer</strong> s
  * [Dafont](http://www.dafont.com/)
  * [Typekit](https://typekit.com/) - Adobe Typekit
  * [Fontello](http://fontello.com/) - Icon Webfonts
+ * [Ultralinx](http://theultralinx.com/2014/05/best-free-fonts.html) - 100 Best Free Fonts
+
+### UI / UX Patterns
+* [Call to Idea](http://calltoidea.com/)
 
 ### Stock Images
 * [Unsplash](http://unsplash.com/)
