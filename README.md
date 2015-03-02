@@ -29,6 +29,7 @@ Het is voor mij als <strong>webdesigner</strong> en <strong>developer</strong> s
   * [UX Movement](http://uxmovement.com/)
   * [Designmodo](http://www.designmodo.com)
   * [Chris Lema](http://chrislema.com/) - Daily Blogger. Product Strategist. Speaker
+  * [Karim Boubker](http://karimboubker.com/) - Ideas on live, liberation and potential
 * Video
   * [TED](http://www.ted.com) - Ideas worth spreading
 * Learn
